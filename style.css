@@ -46,7 +46,7 @@ a:hover {
 
 .wrapper-hero {
     display: flex;
-    padding-top: 96px;
+    padding: 96px 0px 0px 0px;
     max-width: 1040px;
     margin: 0 auto ;
     justify-content: space-between;
@@ -64,7 +64,7 @@ a:hover {
     color: #335eea;
 }
 
-p {
+.p-hero {
     font-size: 21px;
     margin: 0px 0px 48px;
     color: #869ab8;
@@ -101,4 +101,36 @@ img {
 
 i {
     margin-left: 12px;
+}
+
+.wrapper-feature {
+    display: flex;
+    max-width: 1040px;
+    margin: 0 auto ;
+    justify-content: space-between;
+    padding: 96px 0px;
+    font: 17px;
+}
+
+h3 {
+    font-size: 21px;
+    margin: 0px 0px 8px 0px;
+    color: #161c2d;
+}
+
+p {
+    font-size: 17px;
+    color: #869ab8;
+}
+
+.feature-1 {
+    padding: 0px 20px;
+}
+
+.feature-2 {
+    padding: 0px 20px;
+}
+
+.feature-3 {
+    padding: 0px 20px;
 }
