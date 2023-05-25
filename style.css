@@ -1,0 +1,104 @@
+* {font-family: 'Hanken Grotesk', sans-serif;
+margin: 0px;}
+
+
+.wrapper-navbar {
+    width: 100%;
+    padding: 20px 0px;
+}
+
+.container-navbar {
+    max-width: 1040px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.h1-navbar {
+    font-size: 24px;
+    padding: 2.4px 0px;
+    color: #335eea;
+    font-weight:bold;
+}
+
+a {
+    text-decoration: none;
+    font-size: 17px;
+    padding: 8px 24px;
+    color: #506690;
+}
+
+a:hover {
+    color: #335eea;
+}
+
+.btn-buy {
+    background-color:  #335eea;
+    color: #ffff;
+    margin: 0px 0px 0px 168.413px;
+    padding: 9px 16px;
+    border-radius: 8px;
+    border-style: none;
+    font-size: 17px;
+}
+
+.wrapper-hero {
+    display: flex;
+    padding-top: 96px;
+    max-width: 1040px;
+    margin: 0 auto ;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.h1-intro {
+    font-size: 48px;
+    margin: 0px 0px 16px;
+    color: #161c2d;
+    line-height: 1.3;
+}
+
+#span-1 {
+    color: #335eea;
+}
+
+p {
+    font-size: 21px;
+    margin: 0px 0px 48px;
+    color: #869ab8;
+}
+
+img {
+    width: 100%;
+    max-width: 1040px;
+}
+
+.btn-view {
+    font-size: 17px;
+    background-color: #335eea;
+    margin: 0px 4px 0px 0px;
+    padding: 13px 20px;
+    color: #ffffff;
+    border-radius: 8px;
+    border-style: none;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.btn-document {
+    font-size: 17px;
+    background-color: #335eea1a;
+    margin: 0px 4px 0px 0px;
+    padding: 13px 20px;
+    color: #335eea;
+    border-radius: 8px;
+    border-style: none;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+i {
+    margin-left: 12px;
+}
